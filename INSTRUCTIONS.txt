@@ -1,0 +1,2 @@
+Create a program that reads the initial time and the final time of a game. Then, calculate the duration of the game that can start in a day and ends in the next one, 
+(lasting a minimum of  1 hour and a maximum of 1 hour)
